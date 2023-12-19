@@ -1,4 +1,4 @@
-#Program to print the fibonacci series using functin:
+#Program to print the fibonacci series using functin recursion:
 def fibo(n):
     if(n<=1):
         return n
