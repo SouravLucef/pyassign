@@ -7,3 +7,5 @@ def prime(n):
 for i in range(3,1001):
     if(prime(i) and prime(i+2)):
         print(i," ",i+2)
+
+    
