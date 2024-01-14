@@ -1,6 +1,7 @@
 
 my_list=input("Enther the elements as space seperated:").split()
 new_list=[]
+print(my_list)
 for i in my_list:
     if(i not in new_list):
         new_list.append(i)
