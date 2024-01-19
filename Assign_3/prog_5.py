@@ -3,7 +3,7 @@
 def highest_three_value(my_dict):
     sorted_disc=sorted(my_dict.values(),reverse=True)
     sorted_disc=sorted_disc[:3]
-    print(sorted_disc)
+    # print(sorted_disc)
     for i in sorted_disc:
         for j in my_dict.keys():
             if my_dict[j]==i:
