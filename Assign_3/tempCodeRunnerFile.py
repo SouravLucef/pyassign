@@ -1,3 +1,1 @@
-keys=disc.keys()
-print(keys)
-print(keys[0])
+The length of the list must be
